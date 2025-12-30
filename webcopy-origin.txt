@@ -1,0 +1,16 @@
+Uri: https://horizons-cdn.hostinger.com/f71d6eba-d644-4878-8745-338c8939228f/25556b0ea77b0b61173605bf2a1593a1.png
+File Name: C:\Downloaded Web Sites\solcialize.fun\f71d6eba-d644-4878-8745-338c8939228f\25556b0ea77b0b61173605bf2a1593a1.png
+Content Type: image/png
+
+Uri: https://solcialize.fun/
+File Name: C:\Downloaded Web Sites\solcialize.fun\index.htm
+Content Type: text/html
+
+Uri: https://solcialize.fun/assets/index-63a15e32.js
+File Name: C:\Downloaded Web Sites\solcialize.fun\assets\index-63a15e32.js
+Content Type: application/x-javascript
+
+Uri: https://solcialize.fun/assets/index-9fdd4e29.css
+File Name: C:\Downloaded Web Sites\solcialize.fun\assets\index-9fdd4e29.css
+Content Type: text/css
+
